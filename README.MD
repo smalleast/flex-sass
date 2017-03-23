@@ -2,13 +2,17 @@
 > app flex scss.
 
 ## usage:
-+ install
++ npm install
 ```bash
  npm install smalleast/flex-scss --save
 ```
-
++ bower install
+```bash
+ bower install smalleast/flex-scss --save
+```
 
 ##test
+
 
 >gulp test
 
