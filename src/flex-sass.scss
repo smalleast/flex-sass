@@ -1,0 +1,110 @@
+.flex {
+  &-left {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: flex-start;
+    -webkit-justify-content: flex-start;
+  }
+  &-center {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+  &-right {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: flex-end;
+    -webkit-justify-content: flex-end;
+  }
+  &-top {
+    display: flex;
+    display: -webkit-flex;
+    align-items: flex-start;
+    -webkit-align-items: flex-start;
+  }
+  &-middle {
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+    -webkit-align-items: center;
+  }
+  &-bottom {
+    display: flex;
+    display: -webkit-flex;
+    align-items: flex-end;
+    -webkit-align-items: flex-end;
+  }
+  &-left-top {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: flex-start; //水平方向
+    -webkit-justify-content: flex-start;
+    align-items: flex-start; //垂直方向
+    -webkit-align-items: flex-start;
+  }
+  &-left-center {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: flex-start;
+    -webkit-justify-content: flex-start;
+    align-items: center;
+    -webkit-align-items: center;
+  }
+  &-left-bottom {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: flex-start;
+    -webkit-justify-content: flex-start;
+    align-items: flex-end;
+    -webkit-align-items: flex-end;
+  }
+  &-center-top {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    -webkit-justify-content: center;
+    align-items: flex-start;
+    -webkit-align-items: flex-start;
+  }
+  &-center-center {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    -webkit-justify-content: center;
+    align-items: center;
+    -webkit-align-items: center;
+  }
+  &-center-bottom {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    -webkit-justify-content: center;
+    align-items: flex-end;
+    -webkit-align-items: flex-end;
+  }
+  &-right-top {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: flex-end;
+    -webkit-justify-content: flex-end;
+    align-items: flex-start;
+    -webkit-align-items: flex-start;
+  }
+  &-right-center {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: flex-end;
+    -webkit-justify-content: flex-end;
+    align-items: center;
+    -webkit-align-items: center;
+  }
+  &-right-bottom {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: flex-end;
+    -webkit-justify-content: flex-end;
+    align-items: flex-end;
+    -webkit-align-items: flex-end;
+  }
+}

@@ -1,10 +1,10 @@
 {
-  "name": "flex-scss",
+  "name": "flex-sass",
   "version": "0.0.0",
-  "description": "app flex scss.",
-  "homepage": "https://github.com/smalleast/flex-scss",
+  "description": "app flex sass.",
+  "homepage": "https://github.com/smalleast/flex-sass",
   "author": {
-    "name": "afei",
+    "name": "smalleast",
     "email": "382026180@qq.com"
   },
   "license": "MIT",
