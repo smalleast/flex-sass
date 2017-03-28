@@ -1,14 +1,14 @@
-# flex-scss
-> app flex scss.
+# flex-sass
+> app flex sass.
 
 ## usage:
 + npm install
 ```bash
- npm install smalleast/flex-scss --save
+ npm install smalleast/flex-sass --save
 ```
 + bower install
 ```bash
- bower install smalleast/flex-scss --save
+ bower install smalleast/flex-sass --save
 ```
 
 ##test
