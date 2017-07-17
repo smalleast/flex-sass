@@ -108,3 +108,24 @@
     -webkit-align-items: flex-end;
   }
 }
+
+.t {
+  &l {
+    text-align: left;
+  }
+  &c {
+    text-align: center;
+  }
+  &r {
+    text-align: right;
+  }
+  &t {
+    vertical-align: top;
+  }
+  &m {
+    vertical-align: middle;
+  }
+  &b {
+    vertical-align: bottom;
+  }
+}

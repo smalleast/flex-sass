@@ -120,3 +120,27 @@
   align-items: flex-end;
   -webkit-align-items: flex-end;
 }
+
+.tl {
+  text-align: left;
+}
+
+.tc {
+  text-align: center;
+}
+
+.tr {
+  text-align: right;
+}
+
+.tt {
+  vertical-align: top;
+}
+
+.tm {
+  vertical-align: middle;
+}
+
+.tb {
+  vertical-align: bottom;
+}
